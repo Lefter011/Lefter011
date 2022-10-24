@@ -1,18 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mike-chernetskyi/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Lefter011&style=flat-square&color=blue" alt=""/>
-
 ### Hi there 👋
-</div>
 
+### I am a
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Web+Developer;Blockchain+Developer)](https://git.io/typing-svg)
 ---
 
 ### 👨‍💻 About Me :
@@ -21,7 +10,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m studing as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- 🌱 I’m currently learning everything 🤣
+
+- 🥅 2022 Goals: Learn more about web3 and blockchain
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mike_Chernetskyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mike-chernetskyi/)
 
@@ -48,3 +39,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lefter011&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/mike-chernetskyi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Lefter011&style=flat-square&color=blue" alt=""/>
