@@ -38,7 +38,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lefter011&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Lefter011 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lefter011)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mike-chernetskyi/">
