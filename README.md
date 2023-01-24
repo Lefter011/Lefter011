@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I am a
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Web+Developer;Blockchain+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Web+Developer;Frontend+Developer)](https://git.io/typing-svg)
 ---
 
 ### 👨‍💻 About Me :
