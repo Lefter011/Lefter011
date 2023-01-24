@@ -12,7 +12,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🌱 I’m currently learning everything 🤣
 
-- 🥅 2022 Goals: Learn more about web3 and blockchain
+- 🥅 2022 Goals: Learn more about React, JavaScript and web3
+
+- 📩 2023 Goals: Learn more about the backend and find a job in IT)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mike_Chernetskyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mike-chernetskyi/)
 
